@@ -44,8 +44,8 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 ---
 
 ### A Few Notes:
-- **Project Purpose**: You can mention if it was created for a class assignment, as a personal project, or for a specific use case.
-- **Technologies Used**: Java and Swing (as shown), and any additional tools or libraries if applicable.
-- **Future Improvements**: If you plan to add more features or if you have ideas for future updates, briefly mention them here.
+- **Project Purpose**: 2024/2025 End of Semester Project
+- **Technologies Used**: Java and Swing 
+- **Future Improvements**: COMING SOON!
 
 
