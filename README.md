@@ -1,4 +1,4 @@
-## Swing Calculator
+## Swing Calculator By U23/CS/1009
 
 This is a simple calculator application built using **Java** and the **Swing GUI** toolkit. It supports basic mathematical operations like addition, subtraction, multiplication, and division. The application provides an intuitive graphical user interface (GUI) with buttons for each operation, making it easy to perform calculations.
 
