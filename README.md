@@ -19,13 +19,13 @@ This is a simple calculator application built using **Java** and the **Swing GUI
 2. **Compile the Java code**:
    Open a terminal or command prompt in the project directory and run:
    ```bash
-   javac Calculator.java
+   javac SwingJavaApplication.java
    ```
 
 3. **Run the Application**:
    After compiling the code, run the application:
    ```bash
-   java Calculator
+   java SwitchJavaApplication.java
    ```
 
 ## Requirements
@@ -33,9 +33,9 @@ This is a simple calculator application built using **Java** and the **Swing GUI
 - **Java Development Kit (JDK)** installed on your machine (JDK 8 or higher).
 - A Java IDE or terminal/command prompt for compiling and running the Java code.
 
-## Screenshots
+## Screenshot of SwingJavaApplication
+![image](https://github.com/user-attachments/assets/62aa20a4-4892-445b-ac03-92ade0292f2c)
 
-(Optional: If you have screenshots, include them here to show what the app looks like.)
 
 ## License
 
