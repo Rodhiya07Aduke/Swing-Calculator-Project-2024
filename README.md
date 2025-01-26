@@ -34,7 +34,7 @@ This is a simple calculator application built using **Java** and the **Swing GUI
 - A Java IDE or terminal/command prompt for compiling and running the Java code.
 
 ## Screenshot of SwingJavaApplication
-![image](https://github.com/user-attachments/assets/62aa20a4-4892-445b-ac03-92ade0292f2c)
+![Calculator Screenshot](CALCULATOR SCREENSHOT.png)
 
 
 ## License
