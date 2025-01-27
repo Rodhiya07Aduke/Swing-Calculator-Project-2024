@@ -2,6 +2,9 @@
 
 This is a simple calculator application built using **Java** and the **Swing GUI** toolkit. It supports basic mathematical operations like addition, subtraction, multiplication, and division. The application provides an intuitive graphical user interface (GUI) with buttons for each operation, making it easy to perform calculations.
 
+## Why I Buildt This
+I created this calculator as a simple project to practice using Java Swing. My goal is to make an intuitive app that could handle basic calculations while being easy to use. I also want to expand my knowledege of java and experiment more.
+
 ## Features
 
 - **Basic Operations**: Addition, subtraction, multiplication, division.
@@ -28,10 +31,25 @@ This is a simple calculator application built using **Java** and the **Swing GUI
    java SwitchJavaApplication.java
    ```
 
+ ## Keyoard Shortcuts
+ 1. '+' for addition
+ 2. '-' for subtraction
+ 3. '*' for multiplication
+ 4. '/' for division
+ 5. '%' for modulus
+ 6. 'C' to clear the input field
+
+
 ## Requirements
 
 - **Java Development Kit (JDK)** installed on your machine (JDK 8 or higher).
 - A Java IDE or terminal/command prompt for compiling and running the Java code.
+
+  ## How to Contribute to my project
+  1. Fork the rpository
+  2. Create a new branch for your feature
+  3. Make your changes
+  4. Submit a pull request
 
 ## Screenshot of SwingJavaApplication
 ![image](https://github.com/user-attachments/assets/47c4d469-2d7f-455b-b1e7-a0d05f3ee7b1)
@@ -47,6 +65,6 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 ### A Few Notes:
 - **Project Purpose**: 2024/2025 End of Semester Project
 - **Technologies Used**: Java and Swing 
-- **Future Improvements**: COMING SOON!
-
+- **Future Improvements**:Implementing scientific functions (squareroots, exponents, etc.).
+                          Add a history feature to display past calculations
 
